@@ -19,7 +19,7 @@ Browser: ------------ firefox  / falkon / lynx
 Communication: ------ discord  
 Gaming: ------------- steam  
 Colour picker: ------ hyprpicker  
-clipboard: ---------- wl-clipboard
+clipboard: ---------- wl-clipboard  
 Wallpaper manager: -- swww  
 Wallpaper selector: - hellpaper (script on git)  
 Password manager: --- keepassxc  
@@ -30,7 +30,7 @@ music: -------------- spotify
 image viewer: ------- gwenview  
 photo editor: ------- darktable  
 image manitulation: - gimp  
-digital art: -------- inkscape
+digital art: -------- inkscape  
 office suite: ------- libreoffice  
 remote access: ------ remmina  
 diffs: -------------- meld  
@@ -39,18 +39,18 @@ system info: -------- neofetch
 process monitor: ---- htop  
 terminal multipl: --- tmux  
 PCB design: --------- kicad  
-Step file viewer: --- FreeCAD
-handwritten notes: -- rnote / xournal++
+Step file viewer: --- FreeCAD  
+handwritten notes: -- rnote / xournal++  
 networkscanner: ----- arp-scan  
 commandline json: --- jq  
 zip: ---------------- 7zip  
 daw: ---------------- reaper  
-keyboard building: -- qmk (seperate repo)
+keyboard building: -- qmk (seperate repo)  
 version control: ---- git  
 network analysis: --- wireshark  
 windows emulation: -- wine  
 audio: -------------- pipewire  
-font: --------------- ttf-hack
+font: --------------- ttf-hack  
 smb: ---------------- (?) smbclient  /  samba  
 mqtt: --------------- mqttx-clean-bin (AUR)  
 google cloud: ------- google-cloud-cli  
