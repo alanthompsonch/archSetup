@@ -1,6 +1,11 @@
 # archSetup
 Repository for storing all information on dependencies, dotfiles, configuration for my preferred pc setup running wayland / hyprland on an arch based system
 
+# todo:
+- script the whole thing
+- add waybar css file
+- make configs conditional based on simple choices (monitors, laptop, keyboard, with or without kanata etc.)
+
 ## Dependencies
 Window manager: ----- hyprland  
 Display manager: ---- wayland  
